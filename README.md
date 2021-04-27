@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @davethenoobsnoob
+- 👀 I’m interested in Audio
+- 🌱 I’m currently learning C++
